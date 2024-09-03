@@ -25,4 +25,4 @@ This research project highlights the significant potential of AI, sensors, and e
 
 Acknowledgments
 
-The research team would like to acknowledge the valuable contributions of Dr. Anton and the resources provided by KAUST, including access to the IBEX cluster and GPU computing resources.
+The team would like to acknowledge the valuable contributions of Dr. Anton and the resources provided by KAUST, including access to the IBEX cluster and GPU computing resources.

@@ -1,0 +1,28 @@
+AI-Enhanced Quality Inspection of 3D Printing Processes: A Sensor-Based Approach
+
+Abstract
+
+This report presents a research project aimed at improving quality inspection in 3D printing through the integration of artificial intelligence (AI), sensors, and cameras. The project focuses on real-time monitoring of 3D printing processes, using embedded systems to analyze data from sensors and cameras to detect potential printing errors. The objective is to enhance the efficiency, accuracy, and reliability of quality control in 3D printing.
+
+Introduction
+
+3D printing, also known as additive manufacturing, has emerged as a transformative technology with applications spanning various industries. However, ensuring the quality of 3D-printed objects remains a challenge. Traditional quality inspection methods, which are often manual and time-consuming, can be prone to errors and inconsistencies. This research project explores the potential of AI to automate and improve the quality inspection process in 3D printing.
+
+Methodology
+
+    Sensor Integration: The project involves the integration of sensors and cameras into 3D printing systems. These sensors collect data on critical process parameters such as room temperature, nozzle temperature, bed temperature, and air humidity.
+    Data Collection: A dataset of images and videos captured during 3D printing processes was gathered. The dataset included examples of both successful and failed prints, enabling the training of AI models for error detection.
+    AI Model Development: Various AI models were developed and evaluated for their ability to detect 3D printing errors. The models included convolutional neural networks (CNNs), residual networks (ResNets), and attention-based models.
+    Embedded System Implementation: The selected AI models were optimized and deployed on a Raspberry Pi 4 embedded system, demonstrating the feasibility of real-time quality inspection.
+
+Results and Discussion
+
+The project successfully demonstrated the potential of AI for quality inspection in 3D printing. The developed AI models achieved high accuracy in detecting various printing errors, including warping, filament errors, and layer separation. The embedded system implementation enabled real-time monitoring and error detection, contributing to improved efficiency and reduced material waste.
+
+Conclusion
+
+This research project highlights the significant potential of AI, sensors, and embedded systems for enhancing quality control in 3D printing. The developed system offers a promising solution for automating the inspection process, leading to improved accuracy, efficiency, and reliability. Further research and development in this area can pave the way for wider adoption of 3D printing in critical applications such as medical device manufacturing.
+
+Acknowledgments
+
+The research team would like to acknowledge the valuable contributions of Dr. Anton and the resources provided by KAUST, including access to the IBEX cluster and GPU computing resources.

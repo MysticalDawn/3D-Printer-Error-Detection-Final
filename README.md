@@ -10,6 +10,11 @@ This project is focused on detecting 3D printing errors by classifying nozzle im
 - **Model Training & Evaluation**: Train the ARCNN model on the preprocessed dataset and evaluate its performance using metrics such as accuracy, precision, recall, and F1 score.
 - **Prediction & Visualization**: Make predictions on new nozzle images and visualize model performance with metrics and confusion matrices.
 
+
+## Dataset
+** The dataset can be found here: https://www.kaggle.com/competitions/early-detection-of-3d-printing-issues/
+** It consistes of around 12Gb of images from a nozzle camera with some having extrusion and others none.
+
 ## Main Code File
 
 - **`ARCNN.ipynb`**: This Jupyter notebook contains all the necessary code for preprocessing, model training, evaluation, and prediction. It is structured as follows:

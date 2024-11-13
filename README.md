@@ -26,10 +26,11 @@ This project is focused on detecting 3D printing errors by classifying nozzle im
     4. **Model Evaluation**: 
         - Evaluate the trained model on the test set
         - Compute key metrics such as accuracy, precision, recall, and F1 score
-    5. **Prediction**: 
+    5. **Visualization**: 
+        - Visualize model performance, including accuracy/loss curves for the training phase.
+    6. **Prediction**: 
         - Use the trained model to predict whether extrusion occurred or not in new nozzle images
-    6. **Visualization**: 
-        - Visualize model performance, including accuracy/loss curves and confusion matrices.
+  
 
 ## Instructions for Running the Code
 
@@ -38,3 +39,11 @@ This project is focused on detecting 3D printing errors by classifying nozzle im
 ```bash
 git clone https://github.com/MysticalDawn/3D-Printer-Error-Detection-Final.git
 cd 3D-Printer-Error-Detection-Final
+```
+
+### 2. Access the Folder
+```bash
+cd 3D-Printer-Error-Detection-Final
+```
+
+## The outputs are already shown in the Juypter Notebook. We decided not to include the dataset itself since it is quite large. 

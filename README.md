@@ -13,7 +13,7 @@ This project is focused on detecting 3D printing errors by classifying nozzle im
 
 ## Dataset
 The dataset can be found here: https://www.kaggle.com/competitions/early-detection-of-3d-printing-issues/
-###It consistes of around 12Gb of images from a nozzle camera with some having extrusion and others none.
+It consistes of around 12Gb of images from a nozzle camera with some having extrusion and others none.
 
 ## Main Code File
 

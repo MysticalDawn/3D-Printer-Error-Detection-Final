@@ -28,12 +28,11 @@ It consistes of around 12Gb of images from a nozzle camera with some having extr
     3. **Model Training**: 
         - Train the ARCNN model on the preprocessed image data
         - Adjust hyperparameters and fit the model to the training data
+        - Visualize model performance, including accuracy/loss curves for the training phase.
     4. **Model Evaluation**: 
         - Evaluate the trained model on the test set
-        - Compute key metrics such as accuracy, precision, recall, and F1 score
-    5. **Visualization**: 
-        - Visualize model performance, including accuracy/loss curves for the training phase.
-    6. **Prediction**: 
+        - Compute key metrics such as accuracy
+    5. **Prediction**: 
         - Use the trained model to predict whether extrusion occurred or not in new nozzle images
   
 
